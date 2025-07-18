@@ -1,5 +1,5 @@
 # restaurant_simulation
-restaurant_simulation
+
 This project is an interactive restaurant simulation built using HTML/JavaScript for the frontend and Flask for the backend. Users can launch the restaurant, seat customers randomly at tables, and interact with a food recognition interface after each order.
 
 How to Run
